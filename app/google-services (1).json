@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "186744706098",
+    "firebase_url": "https://diary1911-51554-default-rtdb.firebaseio.com",
+    "project_id": "diary1911-51554",
+    "storage_bucket": "diary1911-51554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186744706098:android:2c0f71e7a47aab2b48182b",
+        "android_client_info": {
+          "package_name": "com.example.diary1913"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqkB3oCjBPrMlTFu28GcoTk_mKyVNFPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
